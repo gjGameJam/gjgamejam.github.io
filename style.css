@@ -16,5 +16,10 @@ p {
 img {
     width: 25em;
     max-width: 50%;
+    
+}
+
+#images {
+    white-space: nowrap;
     float: left;
 }
