@@ -16,4 +16,5 @@ p {
 img {
     width: 25em;
     max-width: 50%;
+    float: left;
 }
